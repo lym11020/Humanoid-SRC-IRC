@@ -1,0 +1,1 @@
+/usr/local/cuda-11.4/bin/nvcc   -gencode arch=compute_87,code=sm_87 -Wno-deprecated-gpu-targets -Wno-deprecated-declarations -w -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/img_proc_lib.dir/src/img_proc.cu.o -o CMakeFiles/img_proc_lib.dir/cmake_device_link.o  /usr/local/cuda-11.4/lib64/libcudart_static.a -lpthread -ldl  

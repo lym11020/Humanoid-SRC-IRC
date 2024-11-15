@@ -1,0 +1,2 @@
+ahra
+-DCATKIN_WHITELIST_PACKAGES= -DCATKIN_DEVEL_PREFIX=/home/rnd/나잘거야/ahra/devel -DCMAKE_INSTALL_PREFIX=/home/rnd/나잘거야/ahra/install -G Unix Makefiles

@@ -1,0 +1,7 @@
+<launch>
+  <!-- Launch the Move_decision_node -->
+    <node pkg="ahra" type="Sensor_node" name="Sensor_node">
+      </node>
+    <node pkg="ahra" type="Move_decision_node" name="Move_decision_node" output="screen">
+      </node>
+</launch>
