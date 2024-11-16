@@ -159,7 +159,7 @@ src
 │   │   ├── dynamixel_controller.cpp
 │   │   ├── dynamixel.cpp
 │   │   ├── fsr_ux_420_short.ino
-│   │   ├── img_proc.cuda
+│   │   ├── img_proc.cu
 │   │   ├── main_2.cpp
 │   │   ├── main.cpp
 │   │   ├── Move_decision.cpp
